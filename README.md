@@ -1,6 +1,6 @@
 # CS-255
 
-##Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+## Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 The DriverPass project is a system that will be provided to the client which aims to increase the rate at which users of the system are able to pass their drivers exams.
 The application and related systems will allow student users to be able study materials, take practice tests, schedule in-person driving lessons with an instructor, and see their history of coursework.
